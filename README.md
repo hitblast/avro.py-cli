@@ -10,8 +10,6 @@ A command-line wrapper for avro.py to ease Bangla phonetic workflow inside your 
 
 <img src="static/terminal_demo.png" alt="Terminal Demo">
 
-<br>
-
 ## Overview
 
 This Python package wraps around [avro.py](https://pypi.org/project/avro.py) in order to add support for terminal-based Bangla text parsing. It's completely optional over its parent package and completely depends on your workflow as a developer or as a conventional user.
