@@ -8,6 +8,8 @@ A command-line wrapper for avro.py to ease Bangla phonetic workflow inside your 
 :warning: | This project is still under development and won't work with the current version of avro.py
 ---|---
 
+<img src="static/terminal_demo.png" alt="Terminal Demo">
+
 <br>
 
 ## Overview
@@ -34,15 +36,17 @@ If you have done the installation correctly, the usage should be pretty easy as 
 
 ```bash
 # Get help regarding the CLI inside your terminal.
-python3 -m avro --help 
-avro --help # Minified, both of them can work depending on your environment.
+$ python3 -m avro --help 
+$ avro --help 
+# Minified, both of them can work depending on your environment.
 
 # Parse a text.
-avro parse --text "ami banglay gan gai."
-avro parse -t "eije dekh waTar." # Minified --text option.
+$ avro parse --text "ami banglay gan gai."
+$ avro parse -t "eije dekh waTar." 
+# Minified --text option.
 
 # Parse multiple texts.
-avro parse -t "amar swopnera" -t "Dana mele ure cole" -t "obarito nIle."
+$ avro parse -t "amar swopnera" -t "Dana mele ure cole" -t "obarito nIle."
 ```
 
 Note that each time you parse some text, the output will be automatically copied to your clipboard for convenience.
