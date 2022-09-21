@@ -5,9 +5,6 @@ A command-line wrapper for avro.py to ease Bangla phonetic workflow inside your 
 ![License](https://img.shields.io/pypi/l/avro.py-cli.svg?color=black&label=License)
 ![Python Version](https://img.shields.io/pypi/pyversions/avro.py-cli.svg?color=black&label=Python)
 
-:warning: | This project is still under development and won't work with the current version of avro.py
----|---
-
 <img src="static/terminal_demo.png" alt="Terminal Demo">
 
 ## Overview
