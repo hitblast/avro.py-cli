@@ -49,11 +49,11 @@ def cli():
 # The main command function (parse, in this case).
 @cli.command()
 @click.option(
-    '-t', 
-    '--text', 
-    required=True, 
-    multiple=True, 
-    type=str, 
+    '-t',
+    '--text',
+    required=True,
+    multiple=True,
+    type=str,
     help='Text you want to parse.'
 )
 def parse(
