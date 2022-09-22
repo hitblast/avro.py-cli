@@ -2,6 +2,7 @@
 
 A command-line wrapper for avro.py to ease Bangla phonetic workflow inside your terminal.
 
+[![Linting](https://github.com/hitblast/avro.py-cli/actions/workflows/linting.yml/badge.svg?branch=main)](https://github.com/hitblast/avro.py-cli/actions/workflows/linting.yml)
 ![License](https://img.shields.io/pypi/l/avro.py-cli.svg?color=black&label=License)
 ![Python Version](https://img.shields.io/pypi/pyversions/avro.py-cli.svg?color=black&label=Python)
 
