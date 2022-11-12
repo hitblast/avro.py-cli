@@ -1,4 +1,0 @@
-click
-rich
-pyclip
-avro.py
